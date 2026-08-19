@@ -47,6 +47,6 @@ Thanks to the workshop instructor for guiding and teaching the concepts of web d
 
 ---
 ## Live Demo
- https://gangadharkuratti790-ship-it.github.io/Liora-Website/
+  https://gangadhar-kuratti.github.io/Liora-Website/
 
  ⭐ If you like this project, consider giving it a star!
